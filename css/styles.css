@@ -10837,10 +10837,6 @@ p {
   line-height: 1.75;
 }
 
-.text-left {
-  text-align: left !important;
-}
-
 .page-section {
   padding: 6rem 0;
 }
@@ -11263,4 +11259,8 @@ header.masthead .masthead-heading {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.text-left {
+  text-align: left !important;
 }
